@@ -1,6 +1,6 @@
 {
   "author": "GO1",
-  "name": "GO1-quick-start-guide-tutorial",
+  "name": "GO1-quick-start-guide",
   "description": "Basic examples of the GO1 authorization flows through OAuth 2",
   "version": "0.0.2",
   "dependencies": {
